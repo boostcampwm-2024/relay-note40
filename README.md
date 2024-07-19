@@ -1,5 +1,5 @@
 # 행운의 편지
-<img src = "https://i.pinimg.com/474x/58/0e/5b/580e5b42e1b1d7a9777d79a9fbfb63f9.jpg" width = 200  height = 200>
+<img src = "https://i.pinimg.com/474x/58/0e/5b/580e5b42e1b1d7a9777d79a9fbfb63f9.jpg" width = 400  height = 400>
 
 ### 이 편지는 .. 부스트캠프에서 시작 되어 ..     
 ### 이 편지를 읽고 퀘스트를 완료하면 행운이 찾아옵니다 ..      
