@@ -28,7 +28,7 @@
 - 다급하다고 지금까지 해왔던 방법으로만 수행하지 말고, 잠시 더 나은 방법이 있는지 고민하고 찾아보자.
 - 명령어 처리를 직접 표준입력 처리가 아닌, commander 패키지를 사용하여 해결했습니다 !
 
-- [Day14 gist] (https://gist.github.com/yangchef1/9bdbe43d5b6aff6630caf3f80f8faec0)
+- [Day14 gist](https://gist.github.com/yangchef1/9bdbe43d5b6aff6630caf3f80f8faec0)
 
 ### <퀘스트 6 : 팀원들에게 공유하고 싶은 오류 하나 README에 작성하기>
 
